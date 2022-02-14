@@ -1,0 +1,2 @@
+MouseMove, 490, 430, 1
+MouseMove, 490, 430, 1
