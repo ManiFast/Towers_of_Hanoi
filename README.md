@@ -11,6 +11,8 @@
  и запустить скрипт (передначалом выбрать высоту которую вводили в начале, и не забыть после запуска вернуться в окно браузера),
  через пару секунд скрипт начнет выполняться и спустя мнгновение все переложит.
  
+>Скачать программу [**здесь**](https://downgit.github.io/#/home?url=https://github.com/Stas-inside/Towers_of_Hanoi/tree/main/Hanoi-solution/Release)
+ 
  Пример решения с восми плитками
  ![](https://github.com/Stas-inside/Towers_of_Hanoi/blob/main/Hanoi-solution/Add/Win.PNG)
  
