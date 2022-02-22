@@ -16,6 +16,6 @@
 Пример решения с восми плитками
 ![](https://github.com/Stas-inside/Towers_of_Hanoi/blob/main/Hanoi-solution/Add/Win.PNG)
  
-Занело всего 4 часа)
+Занело всего 4 часа
 ![](https://github.com/Stas-inside/Towers_of_Hanoi/blob/main/Hanoi-solution/Add/Time.PNG)
 Позже запишу видио про это)
