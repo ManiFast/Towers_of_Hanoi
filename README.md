@@ -1,4 +1,4 @@
- # Towers_of_Hanoi       
+ # Towers_of_Hanoi        
 Программа, которая дает решения для любой высоты пирамиды, а также сама перемещает башни благодаря скрипту на ahk.
  
 ![](https://github.com/Stas-inside/Towers_of_Hanoi/blob/main/Hanoi-solution/Add/Sequence%2001.gif)
